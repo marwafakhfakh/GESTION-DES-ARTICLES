@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <!-- Bannière principale avec image de promotion -->
+    <div class="banner text-center">
+        <img src="~/images/banner-furniture-sale.jpg" alt="Promotion Meubles" class="img-fluid" style="width:100%; max-height:500px;">
+        <h1 class="display-4 mt-3">Bienvenue chez Meubles Design</h1>
+        <p class="lead">Choisissez le made in France pour sublimer votre intérieur !</p>
+        <a href="/Products" class="btn btn-primary btn-lg" style="background-color:#78c2ad;color:white;border:none">Découvrir nos produits</a>
+    </div>
+</div>
+
+<!-- Section Catégories -->
+<section class="categories mt-5">
+    <h2 class="text-center">Nos Catégories de Meubles</h2>
+    <div class="row mt-4">
+        <div class="col-md-4 text-center">
+            <img src="~/images/category-bedroom.jpg" alt="Meubles Chambre" class="img-fluid rounded-circle" style="   width: 200px;height: 200px;  object-fit: cover;">
+          
+            <h3>Chambre</h3>
+            <a href="/Products/Chambre" class="btn btn-secondary">Voir les produits</a>
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="~/images/category-livingroom.jpg" alt="Meubles Salon" class="img-fluid rounded-circle" style="   width: 200px;height: 200px;  object-fit: cover;">
+            <h3>Salon</h3>
+            <a href="/Products/Salon" class="btn btn-secondary">Voir les produits</a>
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="~/images/category-office.jpg" alt="Meubles Bureau" class="img-fluid rounded-circle" style="   width: 200px;height: 200px;  object-fit: cover;">
+            <h3>Bureau</h3>
+            <a href="/Products/Bureau" class="btn btn-secondary">Voir les produits</a>
+        </div>
+    </div>
+</section>
+<!-- Section Produits en vedette -->
+<section class="featured-products mt-5">
+    <h2 class="text-center">Produits en Vedette</h2>
+    <div class="row mt-4">
+        <div class="col-md-3 text-center">
+            <img src="~/images/product1.jpg" alt="Produit 1" class="img-fluid">
+            <h4>Lit Moderne</h4>
+            <p>500,00 €</p>
+            <a href="/Product/Details/1" class="btn btn-outline-primary">Voir les détails</a>
+        </div>
+        <div class="col-md-3 text-center">
+            <img src="~/images/product3.jpg" alt="Produit 2" class="img-fluid">
+            <h4>Canapé Confort</h4>
+            <p>750,00 €</p>
+            <a href="/Product/Details/2" class="btn btn-outline-primary">Voir les détails</a>
+        </div>
+        <div class="col-md-3 text-center">
+            <img src="~/images/product5.jpg" alt="Produit 3" class="img-fluid">
+            <h4>Chaise de Bureau Ergonomique</h4>
+            <p>120,00 €</p>
+            <a href="/Product/Details/3" class="btn btn-outline-primary">Voir les détails</a>
+        </div>
+        <div class="col-md-3 text-center">
+            <img src="~/images/product4.jpg" alt="Produit 4" class="img-fluid">
+            <h4>Table Basse Design</h4>
+            <p>150,00 €</p>
+            <a href="/Product/Details/4" class="btn btn-outline-primary">Voir les détails</a>
+        </div>
+    </div>
+</section>

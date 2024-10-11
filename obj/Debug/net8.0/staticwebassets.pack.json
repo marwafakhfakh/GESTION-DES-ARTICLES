@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GESTION DES ARTICLES.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GESTION DES ARTICLES.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\08244f07-2e49-4011-9dd9-58db78811362_pouf.jpg",
+      "PackagePath": "staticwebassets\\images\\08244f07-2e49-4011-9dd9-58db78811362_pouf.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\1534be39-fc74-4c06-97d8-6d38caaf0b29_canapee.jpg",
+      "PackagePath": "staticwebassets\\images\\1534be39-fc74-4c06-97d8-6d38caaf0b29_canapee.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\21de725e-a3be-4432-9d21-eb11ff23ced3_chaiseee.png",
+      "PackagePath": "staticwebassets\\images\\21de725e-a3be-4432-9d21-eb11ff23ced3_chaiseee.png"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\34c87d6d-2022-466e-ad0f-2edc5376f324_canape.png",
+      "PackagePath": "staticwebassets\\images\\34c87d6d-2022-466e-ad0f-2edc5376f324_canape.png"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\37b9b49e-9ad5-401b-9ccd-48d982170634_table.png",
+      "PackagePath": "staticwebassets\\images\\37b9b49e-9ad5-401b-9ccd-48d982170634_table.png"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\5bd49d8a-7ba2-4039-a470-0e88c9217bdc_20.png",
+      "PackagePath": "staticwebassets\\images\\5bd49d8a-7ba2-4039-a470-0e88c9217bdc_20.png"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\banner-furniture-sale.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-furniture-sale.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\canapé.jpg",
+      "PackagePath": "staticwebassets\\images\\canapé.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\category-bedroom.jpg",
+      "PackagePath": "staticwebassets\\images\\category-bedroom.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\category-livingroom.jpg",
+      "PackagePath": "staticwebassets\\images\\category-livingroom.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\category-office.jpg",
+      "PackagePath": "staticwebassets\\images\\category-office.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\chaise.png",
+      "PackagePath": "staticwebassets\\images\\chaise.png"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\product1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\product2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\product3.jpg",
+      "PackagePath": "staticwebassets\\images\\product3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\product4.jpg",
+      "PackagePath": "staticwebassets\\images\\product4.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\product5.jpg",
+      "PackagePath": "staticwebassets\\images\\product5.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\images\\table.jpg",
+      "PackagePath": "staticwebassets\\images\\table.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\asp.net\\GESTION DES ARTICLES\\GESTION DES ARTICLES\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GESTION DES ARTICLES.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GESTION DES ARTICLES.props",
+      "PackagePath": "build\\GESTION DES ARTICLES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GESTION DES ARTICLES.props",
+      "PackagePath": "buildMultiTargeting\\GESTION DES ARTICLES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GESTION DES ARTICLES.props",
+      "PackagePath": "buildTransitive\\GESTION DES ARTICLES.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
